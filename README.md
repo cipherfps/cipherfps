@@ -1,19 +1,13 @@
 # cipher ✦
 
----
-
 ## ✨ About Me
 
 🎯 Interested in OGFN, software, and tools  
 🎨 Focused on clean, minimal, and practical project design  
 
----
-
 ## 📌 Projects
 
 🌐 **ATLAS** → Easy/minimal launcher for OGFN  
-
----
 
 ## 📊 GitHub Stats
 
