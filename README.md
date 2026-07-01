@@ -9,8 +9,6 @@
 
 🌐 **ATLAS** → Easy/minimal launcher for OGFN  
 
-## 📊 GitHub Stats
+## 📊 Stats
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=cipherfps&show_icons=true&theme=tokyonight&hide_border=true" />
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cipherfps&layout=compact&theme=tokyonight&hide_border=true" />
+![Profile Views](https://komarev.com/ghpvc/?username=cipherfps&label=Profile%20views&color=0e75b6&style=flat)
