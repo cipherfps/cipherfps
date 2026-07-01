@@ -1,16 +1,37 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**cipherfps/cipherfps** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# cipher ✦
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### ✨ About Me
+
+</div>
+
+```md
+🎯 Interested in OGFN, software, and tools
+🎨 Focused on clean, minimal, and practical project design
+```
+
+<div align="center">
+
+---
+
+### 📌 Projects
+
+</div>
+
+```md
+🌐 ATLAS            → Easy/minimal launcher for OGFN
+```
+
+<div align="center">
+
+---
+
+### 📊 GitHub Stats
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>
